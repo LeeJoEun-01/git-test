@@ -1,7 +1,7 @@
 <div align=left>
   
 ### Hi!👋 I'm Joeun Lee
-#### 안녕하세요! 기술과 소통으로 가치를 만드는 개발자 이조은입니다.
+#### 안녕하세요! 기술과 소통으로 가치를 만드는 개발자 땡땡땡입니다.
 
 ### Blog ✍️
 
@@ -9,7 +9,7 @@
 
 ## Currently Working On 🔄
 
-- [2025.07~] 연합 IT 동아리, Nexters 27기 iOS 파트
+- [2025.07~] 연합 IT 동아리, Nexters 27기 i O S 파트
 
   - [뉴스레터 큐레이션 앱 서비스, 쏙📰](https://github.com/Nexters/NewsLetter-iOS)
 
