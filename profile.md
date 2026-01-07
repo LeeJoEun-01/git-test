@@ -1,11 +1,11 @@
 <div align=left>
   
 ### Hi!👋 I'm Joeun Lee
-#### 안녕하세요! 기술과 소통으로 가치를 만드는 개발자 땡땡땡입니다.
+#### 안녕하세요! 기술과 소통으로 가치를 만드는 개발자 .
 
 ### Blog ✍️
 
-개발하며 만난 고민과 해결 과정을 담고 있어요. 저의 [티스토리](https://joni-dev.tistory.com/)에 놀러오세요! 🙌🏻
+개발하며 만난 고민과 해결 과정을 담고 있어요. 저의 [티스토리](https://joni-dev.tistory.com/)에 놀러오세요! 
 
 ## Currently Working On 🔄
 
