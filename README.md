@@ -166,7 +166,7 @@
 ## 📁 특강 자료
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/af052e8d-9b5a-413f-90c0-d6b9f4bf82c9" />
 
-[⛓️자료링크](https://www.figma.com/proto/mLJHBFnfPWJzuy7Bv9zoJL/Git-GitHub-%ED%8A%B9%EA%B0%95?node-id=45-1482&p=f&t=VIHToA13nYQyvnIK-1&scaling=contain&content-scaling=fixed&page-id=0%3A1)
+[⛓️자료링크](https://www.figma.com/proto/mLJHBFnfPWJzuy7Bv9zoJL/Git-GitHub-%ED%8A%B9%EA%B0%95?node-id=45-1550&p=f&t=VIHToA13nYQyvnIK-1&scaling=contain&content-scaling=fixed&page-id=0%3A1)
 
 ---
 
